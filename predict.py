@@ -30,6 +30,7 @@ def load_image():
         result_label.config(text="Image loaded successfully.")
 
 
+
 root = tk.Tk()
 root.title("Fauna Find")
 
